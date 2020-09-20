@@ -1,0 +1,7 @@
+This is Version 1 of my project.
+I want this to go into commit 2.
+changed by me.
+this is changed now
+chalo dekhe !
+jihihoih
+This is from master
